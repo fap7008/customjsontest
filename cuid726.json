@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://fap7008.github.io/customjsontest/cuid726.json",
+  "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/cuid726.json",
   "type": "Manifest",
   "label": {
     "en": [
