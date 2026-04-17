@@ -1,0 +1,138 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/collections/mss208:fales/manifest.json",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "Sylvester Manor Archive - Fales Library & Special Collections"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/cuid10.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid10"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/cuid1017.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1017"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/cuid1072.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1072"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/cuid1073.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1073"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/cuid1082.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1082"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/cuid1084.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1084"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/cuid1086.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1086"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/cuid1087.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1087"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/cuid1088.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1088"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/cuid1089.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1089"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/cuid1090.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1090"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/cuid1095.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1095"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/cuid1616.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1616"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/cuid726.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid726"
+        ]
+      }
+    }
+  ]
+}
