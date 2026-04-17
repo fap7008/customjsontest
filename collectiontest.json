@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/collections/mss208:fales/manifest.json",
+  "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/collectiontest.json",
   "type": "Collection",
   "label": {
     "en": [
