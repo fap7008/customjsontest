@@ -352,6 +352,30 @@
     {
       "label": {
         "en": [
+          "Transcription Available?"
+        ]
+      },
+      "value": {
+        "en": [
+          "No"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "All Transcriptions"
+        ]
+      },
+      "value": {
+        "en": [
+          "https://drive.google.com/drive/folders/1RrLtbPL2Fhd8imf3lSQr8ta6xiKGUIx5?usp=sharing"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
           "Subject Area"
         ]
       },
