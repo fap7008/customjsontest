@@ -250,9 +250,8 @@
             }
           ]
         }
-      ]
-    },
-    "annotations": [
+      ],
+      "annotations": [
         {
           "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1088/page/4/annotations",
           "type": "AnnotationPage",
