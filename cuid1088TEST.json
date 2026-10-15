@@ -326,6 +326,26 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1088/page/5/annotations",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1088/page/5/annotations/transcription",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/markdown",
+                "value": "\n\nand their posterity shall have liberty to keep upon the said land two hundred and fifty swine, great and small, the said Indians paying all such damages to the English as they shall sustain by the rooting of the said swine; and to keep horse kind, neat (cattle not exceeding the number of fifth in all, and to get hay to [winter?] them: but they are not ot take any horse kind, cattle, or swine to keep for any other person; nor to sell, give, or any way dispose of any grass or hay to any person whatsoever; nor shall they have liberty to permit or let out any land to any person, either to plant, sow, or any other way to to improve.\n\nThat the said Indians and their posterity after them shall have liberty to make use of so much of that timber of the towns on this side the fort pond as they shall need to fence in their general fields after they have used all the fencing stuff that is upon the north neck, if the English do not lay out that land into particular... or [lotments?] and improve the same.\n\nIn testimony hereof we the party to these presents have hereunto set to, our hands and fixed our seals Interchangeably this 3 day of March 1702/3\n\nSigned, sealed & delivered\n\nIn presence of William Rose\n\nJohn Shaw\n\nWyandance [mark shaped roughly like “>”] his mark Sachem Obadiah &c &c\n\nThe 3rd day of March 1702/3 the Sachems & Indians"
+              },
+              "target": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1088/canvas/5"
+            }
+          ]
+        }
       ]
     },
     {
