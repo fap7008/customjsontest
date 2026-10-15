@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/cuid1088.json",
+  "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/cuid1088TEST.json",
   "type": "Manifest",
   "label": {
     "en": [
