@@ -252,6 +252,43 @@
         }
       ]
     },
+    "annotations": [
+        {
+          "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1088/page/4/annotations",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1088/page/4/annotations/transcription",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/markdown",
+                "value": "\n\ngreat pond to the eastward, for their planting fields, and wholly to leave the land to the eastward
+of the great pond unto the English: and the said Indians shall from year to year lay and keep
+open their field or fields for the said towns cattle to feed upon; (excepting only some small fields
+which they may keep inclosed for winter wheat or grass, not exceeding thirty acres) and the
+time the said field or fields shall be laid open is to be upon the tenth or fifteenth of October, and
+so to continue open until the twenty-fifth day of April after: the said Indians making and
+continually keeping and maintaining a good & sufficient fence about all their fields at their own
+proper cost and charges.\n\nThat if the said Indians or their posterity as long as they live upon Montauk shall be cause to
+leave that field and remove to the eastward of the said great pond, then they shall wholly quit
+the north neck, and shall have liberty to fence in a field from the southward most part of the
+great pond running southward to a small round swamp near the ditch [bars?]; and so from
+thence to run upon a strait line to the mouth of a brook that runs in at the southeast part of the
+Oyster pond; and to plant and improve the land on the northward part of the said line of fence:
+and, they and their posterity after them shall have liberty as often as they see cause to
+exchange their field from one side of the said great pond to the other; still sufficiently fencing
+their fields at their own cost and charges, and observing the rules of laying them open as is
+before prescribed, and the said Indians and"
+              },
+              "target": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1088/canvas/4"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1088/canvas/5",
       "type": "Canvas",
