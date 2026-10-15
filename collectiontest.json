@@ -90,6 +90,15 @@
       }
     },
     {
+      "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/cuid1088TEST.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1088TEST"
+        ]
+      }
+    },
+    {
       "id": "https://raw.githubusercontent.com/fap7008/customjsontest/refs/heads/main/cuid1089.json",
       "type": "Manifest",
       "label": {
